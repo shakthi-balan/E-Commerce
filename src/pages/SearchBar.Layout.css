@@ -1,0 +1,17 @@
+
+.searchBarContainer
+{
+    padding: 10px;
+    margin : 10px;
+    background-color:  white;
+    border-radius: 10cm;
+    width: 40%;
+    cursor: text;
+}
+
+.searchBarInput{
+    border-color: transparent;    
+    border: none;
+    cursor:text;
+    outline: none; 
+}

@@ -1,0 +1,31 @@
+
+.product-listing {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 20px auto; 
+}
+
+.product-item{
+    background-color: #fff;;
+    box-shadow : 0 0 10px rgba(0, 0, 0 , 0.1);
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.product-item img{
+    width: 80px;
+    height: 160px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-item button{
+    border-radius: 8px;
+    padding: 2px;
+    
+}

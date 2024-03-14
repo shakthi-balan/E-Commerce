@@ -1,0 +1,30 @@
+
+headerLayout{
+    
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+header{
+    background-color: rgb(215, 214, 214);
+    display: flex;
+    justify-content:space-between;
+    font: Arial, sans-serif;
+    padding: 20px;
+   
+}
+
+ul{
+    display: flex;
+    
+    list-style-type: none ;
+     
+}
+
+li{
+    margin-right: 10px;
+}
+
+
