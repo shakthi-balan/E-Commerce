@@ -1,5 +1,6 @@
 import "./Header.Layout.css"
-import SearchBar from "./SearchBar.Layout";
+import SearchBar from "./SearchBar/SearchBar.Layout";
+
 
 function HeaderLayout(){
   

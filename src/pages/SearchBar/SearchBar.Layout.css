@@ -1,0 +1,42 @@
+*{
+    /* //background-color: rgb(152, 197, 124); */
+    box-sizing : border-box;
+    margin : 0px;
+    padding : 0px;
+    
+  
+  }
+
+
+
+ .searchbar-container{  
+    position: absolute;
+    display: contents;
+    
+    z-index: 1;
+ }
+ .ul{
+    overflow: visible;
+ }
+ 
+  .searchbar-section{
+    padding : 20px 20px;
+    width : 40%;
+    margin :  auto;
+    /* margin-top : 10vh; */
+    background-color: white;
+    /* display: flex; */
+    font-family:'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+    font-size: larger;
+    border-radius: 10cm;
+    /* //flex-wrap: wrap; */
+    
+    
+  }      
+  
+  .searchbar-input{
+    background-color: transparent;
+    border: none;
+    cursor:default;
+    height: auto;
+  }

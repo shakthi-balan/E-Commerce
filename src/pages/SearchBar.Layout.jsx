@@ -18,7 +18,7 @@ function SearchBar() {
         setInput(inp.value);
 
     }
-    //console.log("input",input);
+    console.log("input",input);
 
     return(
         
